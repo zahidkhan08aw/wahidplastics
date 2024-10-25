@@ -7,7 +7,7 @@ const WhatWeBuy = () => {
   const products = [
     { name: "Recycled Plastics", image: "/slide8.webp" }, // Replace with actual images
     { name: "Plastic Scraps", image: "/slide9.webp" },
-    { name: "Plastic Scraps", image: "/slide3.jpeg" },
+    { name: "Plastic Scraps", image: "/slide11.jpeg" },
     { name: "Plastic Scraps", image: "/slide4.jpg" },
     { name: "Plastic Scraps", image: "/slide5.jpeg" },
     { name: "Plastic Scraps", image: "/slide6.webp" },
