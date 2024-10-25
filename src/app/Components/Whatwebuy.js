@@ -7,12 +7,12 @@ const WhatWeBuy = () => {
   const products = [
     { name: "Recycled Plastics", image: "/slide8.webp" }, // Replace with actual images
     { name: "Plastic Scraps", image: "/slide9.webp" },
-    { name: "PVC Waste", image: "/slide3.jpeg" },
-    { name: "Old Plastic Containers", image: "/slide4.jpg" },
-    { name: "Industrial Plastic Waste", image: "/slide5.jpeg" },
-    { name: "Plastic Films", image: "/slide6.webp" },
-    { name: "HDPE Bottles", image: "/slide7.avif" },
-    { name: "Plastic Packaging", image: "/slide10.webp" },
+    { name: "Plastic Scraps", image: "/slide3.jpeg" },
+    { name: "Plastic Scraps", image: "/slide4.jpg" },
+    { name: "Plastic Scraps", image: "/slide5.jpeg" },
+    { name: "Plastic Scraps", image: "/slide6.webp" },
+    { name: "Plastic Scraps", image: "/slide7.avif" },
+    { name: "Plastic Scraps", image: "/slide10.webp" },
   ];
 
   useEffect(() => {
